@@ -6,6 +6,8 @@ NAMA KELOMPOK 5 TUGAS FINAL ALGORITMA & PEMROGRAMAN :
 5. Nur Ulfiah Triputri Iskandar (240907502030)
 6. Nahdatunnisa Alfitrah (240907502031)
 
+Link Analisis Data: https://kelompok-5-algouas.streamlit.app/
+
 # 📊 Analisis Tingkat Pengangguran dan Pendidikan
 
 Program ini merupakan aplikasi berbasis Streamlit, sebuah framework Python yang memungkinkan pembuatan aplikasi web interaktif secara cepat dan efisien.
